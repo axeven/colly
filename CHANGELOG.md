@@ -1,3 +1,7 @@
+# 2.2.0 - 2024.03.13
+
+- New release
+
 # 2.1.0 - 2020.06.09
 
  - HTTP tracing support
