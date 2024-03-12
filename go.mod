@@ -1,4 +1,4 @@
-module github.com/axeven/colly
+module github.com/axeven/colly/v2
 
 go 1.22
 
